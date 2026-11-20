@@ -28,6 +28,11 @@
         "key": "sex123",
         "expirydate": "25-11-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1efdec75eb8c8f45",
+        "key": "shxz",
+        "expirydate": "27-11-2026",
+        "Allowoffline": false
     }
-]
 ]
